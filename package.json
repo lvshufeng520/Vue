@@ -1,0 +1,22 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "这是Vue的学习笔记。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvshufeng520/Vue.git"
+  },
+  "author": "lvshufeng520",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvshufeng520/Vue/issues"
+  },
+  "homepage": "https://github.com/lvshufeng520/Vue#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
